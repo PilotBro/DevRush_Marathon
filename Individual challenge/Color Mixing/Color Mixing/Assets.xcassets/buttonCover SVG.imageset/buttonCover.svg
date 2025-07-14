@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 306.67 306.67">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: url(#linear-gradient-2);
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+        opacity: .41;
+      }
+
+      .cls-4 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-5 {
+        fill: url(#radial-gradient-2);
+      }
+
+      .cls-5, .cls-6 {
+        opacity: .61;
+      }
+
+      .cls-6 {
+        fill: url(#radial-gradient-3);
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient);
+        opacity: .72;
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-3);
+        opacity: .2;
+      }
+    </style>
+    <clipPath id="clippath">
+      <path class="cls-1" d="m26.24,0h254.18c14.48,0,26.24,11.76,26.24,26.24v254.18c0,14.48-11.76,26.24-26.24,26.24H26.24c-14.48,0-26.24-11.76-26.24-26.24V26.24C0,11.76,11.76,0,26.24,0Z"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="153.33" y1="305.67" x2="153.33" y2="1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset=".72" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.69" y1="7.69" x2="298.98" y2="298.98" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff" stop-opacity=".2"/>
+      <stop offset=".03" stop-color="#f1f1f1" stop-opacity=".32"/>
+      <stop offset=".12" stop-color="#cecece" stop-opacity=".61"/>
+      <stop offset=".2" stop-color="#b5b5b5" stop-opacity=".82"/>
+      <stop offset=".26" stop-color="#a6a6a6" stop-opacity=".95"/>
+      <stop offset=".31" stop-color="#a1a1a1"/>
+      <stop offset=".38" stop-color="#a7a7a7"/>
+      <stop offset=".47" stop-color="#b8b8b8"/>
+      <stop offset=".57" stop-color="#d5d5d5"/>
+      <stop offset=".69" stop-color="#fcfcfc"/>
+      <stop offset=".69" stop-color="#fff"/>
+      <stop offset=".72" stop-color="#f4f4f4" stop-opacity=".89"/>
+      <stop offset=".77" stop-color="#e4e4e4" stop-opacity=".71"/>
+      <stop offset=".82" stop-color="#d6d6d6" stop-opacity=".57"/>
+      <stop offset=".87" stop-color="#cbcbcb" stop-opacity=".45"/>
+      <stop offset=".91" stop-color="#c3c3c3" stop-opacity=".37"/>
+      <stop offset=".96" stop-color="#bebebe" stop-opacity=".32"/>
+      <stop offset=".99" stop-color="#bdbdbd" stop-opacity=".3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="153.33" y1="125.52" x2="153.33" y2="-12.34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="135.26" cy="254.57" fx="135.26" fy="254.57" r="66.12" gradientTransform="translate(-147.93 249.61) scale(2.03 .22)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset=".12" stop-color="#fff" stop-opacity=".77"/>
+      <stop offset=".25" stop-color="#fff" stop-opacity=".56"/>
+      <stop offset=".37" stop-color="#fff" stop-opacity=".39"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".25"/>
+      <stop offset=".62" stop-color="#fff" stop-opacity=".14"/>
+      <stop offset=".75" stop-color="#fff" stop-opacity=".06"/>
+      <stop offset=".87" stop-color="#fff" stop-opacity=".02"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cy="232.37" fy="232.37" r="40.46" gradientTransform="translate(-147.93 269.3) scale(2.03 .16)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" cx="35.4" cy="-51.59" fx="35.4" fy="-51.59" r="39" gradientTransform="translate(6.74 11.58) scale(1.59 .21)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="OBJECTS">
+    <g class="cls-4">
+      <g>
+        <path class="cls-3" d="m26.24,1h254.18c13.93,0,25.24,11.31,25.24,25.24v254.18c0,13.93-11.31,25.24-25.24,25.24H26.24c-13.93,0-25.24-11.31-25.24-25.24V26.24C1,12.31,12.31,1,26.24,1Z"/>
+        <path class="cls-2" d="m26.24,1h254.18c13.93,0,25.24,11.31,25.24,25.24v254.18c0,13.93-11.31,25.24-25.24,25.24H26.24c-13.93,0-25.24-11.31-25.24-25.24V26.24C1,12.31,12.31,1,26.24,1Z"/>
+        <path class="cls-8" d="m240.01,90.33c22.45,0,44.4,2.13,65.66,6.19V26.24c0-13.94-11.3-25.24-25.24-25.24H26.24C12.3,1,1,12.3,1,26.24v159.28c62.3-59,146.43-95.19,239.01-95.19Z"/>
+        <ellipse class="cls-7" cx="126.4" cy="305.67" rx="134.12" ry="14.56"/>
+        <path class="cls-5" d="m208.45,305.67c0,3.5-36.74,6.33-82.05,6.33s-82.05-2.84-82.05-6.33,36.74-6.33,82.05-6.33,82.05,2.84,82.05,6.33Z"/>
+        <ellipse class="cls-6" cx="63.17" cy="1" rx="62.17" ry="8"/>
+      </g>
+    </g>
+  </g>
+</svg>
